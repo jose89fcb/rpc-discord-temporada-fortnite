@@ -4,6 +4,6 @@ Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-3
 <br>
 <img src="https://i.imgur.com/g1h2kVU.png">
 
-Ejecuta el archivo <b>convertir minutos a segundos.py</b>
+Ejecuta el archivo <b>convertir minutos a segundos.py</b>, para calcular de minutos a segundos
 <br>
 <img src="https://i.imgur.com/TxLuUKY.png">
